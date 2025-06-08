@@ -9,29 +9,29 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
+<div align="center">
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="50" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=unreal" height="50" alt="unrealengine logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="jira logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="alvaro.segura.simon@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -42,25 +42,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alvaro51star/alvaro51star/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alvaro51star/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/48104536?v=4"  />
 </div>
 
 ###
