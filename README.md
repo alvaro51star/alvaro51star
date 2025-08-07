@@ -1,4 +1,4 @@
-<h3 align="left">My name is Álvaro Segura<br>🔭 I’m currently working on Beyond the Lens, it's our final project at U-tad, it's a videogame about the fears along your life<br>🌱 I’m currently learning a lot of things such as git, C#, Unity, Unreal, C++<br>📚 I'm in my last course at U-tad, doing a videogame design grade.<br>⚡ Fun fact, I love programming because It is like solving an endless puzzle :)</h3>
+<h3 align="left">My name is Álvaro Segura<br>🔭 I’m currently working on Beyond the Lens, it's our final project at U-tad, it's a videogame about the fears along your life<br>🌱 I’m currently learning a lot of things such as git, C#, Unity, Unreal, C++<br>📚 Graduated in Videogame Design at U-tad.<br>⚡ Fun fact, I love programming because It is like solving an endless puzzle :)</h3>
 
 ###
 
